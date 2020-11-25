@@ -1,0 +1,16 @@
+D:\BACK END\BookManager\src\main\java\com\example\demo\service\BookManager.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\exceptions\CustomGlobalExceptionHandler.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\diioc\TestController.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\exceptions\BookUnSupportedFieldPatchException.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\diioc\ITest.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\models\Book.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\diioc\Manager.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\pojo\Book.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\SpringRestBookManagementApplication.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\SwaggerConfig.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\exceptions\BookNotFoundException.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\repositories\BookRepository.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\controller\BookController.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\diioc\MyFramework.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\mapping\BookMapping.java
+D:\BACK END\BookManager\src\main\java\com\example\demo\service\impl\BookManagerImpl.java

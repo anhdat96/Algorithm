@@ -1,0 +1,17 @@
+com\example\demo\diioc\Manager.class
+com\example\demo\repositories\BookRepository.class
+com\example\demo\controller\MyController.class
+com\example\demo\diioc\TestController.class
+com\example\demo\SwaggerConfig.class
+com\example\demo\service\impl\BookManagerImpl.class
+com\example\demo\models\Book.class
+com\example\demo\exceptions\BookNotFoundException.class
+com\example\demo\mapping\BookMapping.class
+com\example\demo\pojo\Book.class
+com\example\demo\diioc\MyFramework.class
+com\example\demo\service\BookManager.class
+com\example\demo\controller\BookController.class
+com\example\demo\diioc\ITest.class
+com\example\demo\exceptions\BookUnSupportedFieldPatchException.class
+com\example\demo\SpringRestBookManagementApplication.class
+com\example\demo\exceptions\CustomGlobalExceptionHandler.class
